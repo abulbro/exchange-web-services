@@ -1,5 +1,5 @@
 {
-  "name": "abulbro/ews",
+  "name": "abulbro/lib-ews",
   "description": "Library for communicating with Exchange Web Services.",
   "homepage": "http://github.com/abulbro/exchange-web-services",
   "license": "MIT",
