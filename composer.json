@@ -1,5 +1,6 @@
 {
     "require": {
+	"abulbro/exchange-web-services":"~1.0",
         "php-ews/php-ews": "~1.0",
         "jamesiarmes/php-ntlm": "~1.0",
         "mustache/mustache": "~2.0"
